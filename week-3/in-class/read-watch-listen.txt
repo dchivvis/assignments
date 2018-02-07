@@ -1,35 +1,46 @@
-Exemplar: https://www.brooklinelibrary.org/teens/read-watch-listen/
-Title:
-
-Our Public Library
-
-CATALOG
-MY ACCOUNT
-HOURS & LOCATIONS
-ASK A QUESTION
-DONATE
-
-About
-	01 LIBRARY
-		Hours & Locations
-		Directions
-		Contact Us
-		Mission & History
-		Policies
-		Services For…
-	02 COMMUNITY
-		Trustees
-		Brookline Library Foundation
-		Friends of the Brookline Library
-		Brookline Library Music Association
-		Brookline Reads
-		Get Involved
-	03 WHAT’S TRENDING?
-		Our Blog
-		Social Media
-		Coolidge Building Project
-What We Have
-	01 COLLECTIONS
+<!DOCTYPE html>
+<!--sorry! wasn't able to validate during classtime-->
+<html lang="en">
+<head>
+   <meta charset="utf-8">
+   <title>Our Public Library</title>
+</head>
+<body>
+  <header>
+      <h1>Menu</h1>
+      <nav>
+        <ul>
+          <li><a href="CATALOG.html">CATALOG</a></li>
+          <li><a href="HOURS-&-LOCATIONS.html">HOURS & LOCATIONS</a></li>
+          <li><a href="ASK-A-UESTION.html">ASK A QUESTION</a></li>
+          <li><a href="DONATE.html">DONATE</a></li>
+        </ul>
+      </nav>
+  </header>
+<h2>About</h2>
+  <ol><h3>01 LIBRARY</h3>
+        <ul><a href="Hours & Locations.html">Hours & Locations</a></ul>
+		    <ul>Directions
+	      <ul> Contact Us
+		    <ul>Mission & History
+		    <ul>Policies
+		    <ul>Services For…
+         
+        <h3>02 COMMUNITY</h3>
+		        Trustees
+		        Brookline Library Foundation
+		        Friends of the Brookline Library
+		        Brookline Library Music Association
+		        Brookline Reads
+		        Get Involved
+	    03 WHAT’S TRENDING?
+		        Our Blog
+		        Social Media
+		        Coolidge Building Project
+          </ol>     
+  
+ <h2>What We Have</h2>
+	<ol>01 COLLECTIONS
 		Local History
 		Chinese Materials 中文
 		Russian Materials
@@ -51,6 +62,9 @@ What We Have
 		Request a Title
 		Donate & Buy Books
 		3D Print at the Library
+    </ol>
+          
+       <!--ordered list-->     
 Events
 	01 CALENDAR
 		Full Calendar
@@ -94,8 +108,6 @@ Kids & Teens
 
 Read Watch Listen
 
-
-Watch
 Our favorite films and TV for teens, both adapted from books and original stories.
 
 Smoke Signals
@@ -161,16 +173,24 @@ The Watch That Ends the Night
 The Watch That Ends the Night
 
 Print Email
-
-BROWSE SECTION
-ABOUT THE TEEN ROOM
-ASK FOR ASSIGNMENT HELP
-READ WATCH LISTEN
-SIGN UP FOR PROGRAMS
-STUDY
-SUMMER READING
-THINGS TO DO
-VOLUNTEER
-
-Summer Reading
-Check out our own Summer Reading Scratch Ticket Challenge and get the details on the Brookline Public Schools Summer Reading lists for grades 7 through 12.
+<aside>
+  <!--unordered list-->
+      BROWSE SECTION
+      ABOUT THE TEEN ROOM
+      ASK FOR ASSIGNMENT HELP
+      READ WATCH LISTEN
+      SIGN UP FOR PROGRAMS
+      STUDY
+      SUMMER READING
+      THINGS TO DO
+      VOLUNTEER
+  </aside>
+</span>
+<span>
+<h2>Summer Reading</h2>
+  <p>Check out our own Summer Reading Scratch Ticket Challenge and get the details on the Brookline Public Schools Summer Reading lists for grades 7 through 12.</p>
+</span>
+<footer>       
+</footer>
+</body>
+</html>

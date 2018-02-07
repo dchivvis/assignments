@@ -1,24 +1,34 @@
-Link: https://newcatalog.library.cornell.edu/search?q=pandora%27s+box
-Title: Library "Bento" results page
-
-Menu
-	Home
-	About Us
-	Libraries and Hours
-	Courses
-	Research
-	Services
-	Ask a Librarian
-	Help
-	My Account
-
-All results
-	Looking for more?
-		 View all Catalog results
-		 Request from Libraries Worldwide (3,654+)
-		 Recommend a Purchase
-	Format
-		 Articles & Full Text (81,650)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="utf-8">
+   <title>Library "Bento" results page</title>
+</head>
+<body>
+  <header>
+      <h1>Menu</h1>
+      <nav>
+        <ul>
+          <li><a href="home.html">Home</a></li>
+          <li><a href="about.html">About Us</a></li>
+          <li><a href="libraries-and-hours.html">Libraries and Hours</a></li>
+          <li><a href="courses.html">	Courses</a></li>
+          <li><a href="research.html">Research</a></li>
+          <li><a href="ask-a-libraian.html">	Ask a Librarian</a></li>
+          <li><a href="help.html">Help</a></li>
+          <li><a href="account.html">My Account</a></li>
+        </ul>
+      </nav>
+  </header>
+<aside>
+  	<h3>Looking for more?</h3>
+  <ul>
+     <li><a href="catalog.html">View all Catalog results</a></li>
+     <li><a href="request.html">Request from Libraries Worldwide (3,654+)</a></li>
+     <li><a href="recommend.html"> Recommend a Purchase</a></li>
+  </ul>
+  <h3>Articles & Full Text (81,650)</h3>
+<!--same as above-->
 		 Books (163)
 		 Digital Collections (5)
 		 Musical Recordings (9)
@@ -26,75 +36,41 @@ All results
 		 Non-musical Recordings (2)
 		 Theses (1)
 		 Videos (20)
-
-TOP RESULTS
-	Books
-	Articles & Full Text
-	Videos
-	Non-musical Recordings
-	Digital Collections
-
-Books
-		Pandora's box
-		Solanke, Ade. — 2012
-
-		London : Oberon Books, 2012.
-
-		Olin Library PR6119.O43 P36 2012
-		Pandora's box
-		Thompson, Alice. — 1999
-
-		Hopewell, N.J. : Ecco Press, 1999.
-
-		 Olin Library PR6070.H6578 P36x 1999
-		Pandora's box
-		Hawthorne, Nathaniel, 1804-1864. — 1951
-
-		[New York] Limited Editions Club, 1951.
-
-		Kroch Library Rare & Manuscripts (Non-Circulating) Rare Books PZ8.H39 K5 ++
-
-	View 163 Books from Catalog
-	or use advanced search
-
-Articles & Full Text
-		Pandora's box
-		Tasmania, Launceston; Sexton, Mary — 2017
-
-		Australian Nursing & Midwifery Journal. Volume 24, Issue 7, p. 45.
-
-		 Full text journal article
-
-		Pandora's Box
-		2016
-
-		Encyclopædia Britannica Online.
-
-		 Full text reference
-
-		Pandora's box
-		L'Huillier, B — 2011
-
-		Accounting, Auditing & Accountability Journal. Volume 24, Issue 5, pp. 672-672.
-
-	Full text journal article
-
-	View 81,650 Articles & Full Text
-
-Videos
-		Pandora's box
-		1983
-
-		[Chicago, Ill.] : Home Vision, 1983.
-
-		Library Annex Video 1088
-		Pandora's box
-		c2006
-
-		Irvington, NY : Criterion Collection ; Chatsworth, CA : Distributed by Image Entertainment, c2006.
-
-		 Uris Library Dean Room Videodisc 1952
-		Pandora's box
+</aside>
+<main>
+  <h2>Books</h2>
+		<h3>Pandora's box</h3>
+		<ul>
+      <li>Solanke, Ade. — 2012</li>
+      <li>London : Oberon Books, 2012.</li>
+      <li>Olin Library PR6119.O43 P36 2012</li>
+    </ul>
+    <h3>Pandora's box</h3>
+    <ul>
+      <li>Thompson, Alice. — 1999</li>
+      <li>Hopewell, N.J. : Ecco Press, 1999.</li>
+      <li>Olin Library PR6070.H6578 P36x 1999</li>
+  </ul>
+    <h3>Pandora's box</h3>
+    <ul>
+      <li>Hawthorne, Nathaniel, 1804-1864. — 1951</li>
+      <li>[New York] Limited Editions Club, 1951.</li>
+      <li>Kroch Library Rare & Manuscripts (Non-Circulating) Rare Books PZ8.H39 K5 ++</li>
+  </ul>
+ <section>
+   <h2>Videos</h2>
+		<h3>Pandora's box</h3>
+		        <!--unordered list-->
+                1983
+	            	[Chicago, Ill.] : Home Vision, 1983
+		            Library Annex Video 1088
+   <h3>Pandora's box</h3>
+            <!--unordered list-->
+		          c2006
+              Irvington, NY : Criterion Collection ; Chatsworth, CA : Distributed by Image Entertainment, c2006.
+              Uris Library Dean Room Videodisc 1952
+	<!--repeat above-->
+   Pandora's box
 		2014
 
 		[San Francisco, California, USA] : Kanopy Streaming, 2014.
@@ -104,12 +80,12 @@ Videos
 
 	View 20 Videos from Catalog
 	or use advanced search
-
-Non-musical Recordings
-		Technology: Pandora's box in disguise?
-		Lowi, Theodore J. — 1977
-		1977.
-		Library Annex CU 577.6
+<!--repeat above-->
+    Non-musical Recordings
+	    	Technology: Pandora's box in disguise?
+	     	Lowi, Theodore J. — 1977
+	    	1977.
+		    Library Annex CU 577.6
 
 		Technology: Pandora's box in disguise? Panel discussion by Theodore Lowi, Neil Orloff, Franklin A. Long, Jack E. Oliver, and Edmund T. Cranc
 		 Library Annex CU577.6
@@ -117,6 +93,8 @@ Non-musical Recordings
 	View 2 Non-musical Recordings from Catalog
 	or use advanced search
 
+<!--repeat above formating for Digital Collections below-->	
+   
 Digital Collections
 	Epimetheus Opening Pandora's Box 2
 	19th century
@@ -129,24 +107,26 @@ Digital Collections
 
 	Press release: "Dateline:Arizona...Revenge Is at Hand..."
 	1991 December 12
-	Adler Hip Hop Archive
-
-View 5 Digital Collections Items
-
-CONTACT US
-	Ask a Librarian
-	Chat with a Librarian
-
-RESOURCES
-	Library Website
-	Search
-	Catalog
-	Articles & Full-Text
-	Databases
-	E-journal Titles
-	Images
-
-Feedback
-Web Accessibility Help
-
-Release Notes
+	Adler Hip Hop Archive</section>
+ 
+  <a href="catalog-main.html">View 163 Books from Catalog
+	or use advanced search</a><br>
+   <a href="digital-collection.html"> View 5 Digital Collections Itemh</a>
+</main>
+   <footer>
+     <h2>CONTACT US</h2>
+     <!--another list similar to nav-->
+        Ask a Librarian
+	      Chat with a Librarian
+     <h2>RESOURCES</h2>
+       <!--another list similar to nav-->
+        Library Website
+    	  Search
+	      Catalog
+	      Articles & Full-Text
+	      Databases
+	      E-journal Titles
+	      Images
+    </footer>
+  </body>
+</html>
