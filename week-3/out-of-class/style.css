@@ -1,0 +1,54 @@
+body {
+    font-family: Average Sans;
+    line-height: 1.5;
+    background-color: #FFFFFF;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+h1 {
+    font-family: Goudy Bookletter 1911;
+    font-size: 20px;
+    color: #CD8C52;
+}
+
+.definitions {
+    font-size: 1.5em;
+}
+
+:lang (ja) {
+  font-family: Osaka;
+}
+
+dt.term {
+  font-variant: small-caps;
+}
+
+.editors-note {
+  font-variant: small-caps;
+}
+
+blockquote {
+  background-color: #FCF7D3;
+}
+
+.wedge-and-spoon {
+  background-color: #FCF7D3;
+  align-content: center;
+}
+
+.person {
+  background-color: #DEE8BE;
+}
+
+a {
+    color: #0000FF;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
