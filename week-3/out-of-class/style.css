@@ -1,5 +1,5 @@
 body {
-    font-family: Average Sans;
+    font-family: 'Average Sans', sans-serif;
     line-height: 1.5;
     background-color: #FFFFFF;
     padding-left: 2em;
@@ -7,7 +7,7 @@ body {
 }
 
 h1 {
-    font-family: Goudy Bookletter 1911;
+    font-family: 'Goudy Bookletter 1911', serif;
     font-size: 20px;
     color: #CD8C52;
 }
