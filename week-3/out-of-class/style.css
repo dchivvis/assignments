@@ -20,11 +20,11 @@ h1 {
   font-family: Osaka;
 }
 
-dt.term {
+.term {
   font-variant: small-caps;
 }
 
-.editors-note {
+#editors-note {
   font-variant: small-caps;
 }
 
@@ -32,7 +32,7 @@ blockquote {
   background-color: #FCF7D3;
 }
 
-.wedge-and-spoon {
+#wedge-and-spoon {
   background-color: #FCF7D3;
   align-content: center;
 }
