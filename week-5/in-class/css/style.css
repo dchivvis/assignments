@@ -7,6 +7,8 @@
 body {
     font-family: 'Gentium Basic', serif;
     font-size: 16px;
+    padding-left: 6rem;
+    padding-right: 6rem;
 }
 
 h1, h2, h3, nav {
@@ -24,6 +26,8 @@ header {
     background-color: #6d6fae;
     padding-top: 1rem;
     padding-bottom: 1rem;
+    padding-left: 6rem;
+    padding-right: 6rem;
 }
 
 header img {
@@ -40,6 +44,8 @@ nav {
     background-color: #6d6fae;
     color: white;
     position: relative;
+    padding-left: 6rem;
+    padding-right: 6rem;
 }
 
 nav div.dropdown {
@@ -96,12 +102,46 @@ article p {
 #about-aesop {
     background-color: #fffbd5;
     padding: 1em;
-    margin-bottom: 2rem
+    margin-bottom: 2rem;
+    width: 25rem;
 }
 
+#maincontent {
+    padding-left: 6rem;
+    padding-right: 6rem;
+    display: flex;
+}
+
+.fables {
+    min-width: 50%;
+    text-align: center;
+}
+
+article {
+  text-align: left;
+}
+
+.scroll {
+    width: 12.5rem;
+    display: flex;
+    align-items: center;
+}
+
+.fables img{
+    float: right;
+    dispay: flex;
+    justify-content: space-between;
+}
 
 /* Footer */
 footer {
     background-color: #cfc354;
-    color: #fffbd5;
+    color: #000000;
+    padding-left: 6rem;
+    padding-right: 6rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
 }
