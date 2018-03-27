@@ -27,3 +27,5 @@ function displayOneDaysHours(one_days_hours){
 function dailyHours(hours){
   hours.forEach(displayOneDaysHours);
 }
+
+dailyHours(hours);
