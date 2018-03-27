@@ -25,5 +25,5 @@ function displayOneDaysHours(one_days_hours){
 }
 
 function dailyHours(hours){
-  console.log("dailyHours worked");
+  hours.forEach(displayOneDaysHours);
 }
